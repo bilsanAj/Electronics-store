@@ -1,0 +1,67 @@
+.price-boxh {
+    height: 320px;
+    margin-bottom: 100px;
+  }
+  .price-rated {
+    padding-top: 10px;
+  }
+  .categories {
+    margin-top: 100px;
+  }
+  
+  .text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+  .rate {
+    width: 120px;
+    margin-bottom: 50px;
+    margin-top: -5px;
+  }
+  .name,
+  .price {
+    margin-top: 20px;
+  }
+  .bw-header {
+    background-image: url("../assets/Bosch Washer.jpg");
+    height: 190px;
+  }
+  .bew-header {
+    background-image: url("../assets/Beko Washer.jpg");
+    height: 190px;
+  }
+  .aew-header {
+    background-image: url("../assets/Aeg Washer.jpg");
+    height: 190px;
+  }
+  .how-header {
+    background-image: url("../assets/Hoover Washer.jpg");
+    height: 190px;
+  }
+  .hw-header {
+    background-image: url("../assets/Hotpoint Washer.jpg");
+    height: 190px;
+  }
+  .inw-header {
+    background-image: url("../assets/Indesit Washer.jpg");
+    height: 190px;
+  }
+  .baw-header {
+    background-image: url("../assets/Baumatic Washer.jpg");
+    height: 190px;
+  }
+  .price-boxh {
+    height: 350px;
+    margin-bottom: 100px;
+  }
+  .whw-header {
+    background-image: url("../assets/Whirlpool Washer.jpg");
+    height: 190px;
+  }

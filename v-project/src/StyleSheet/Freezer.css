@@ -1,0 +1,78 @@
+.price-boxh {
+  height: 350px;
+  margin-bottom: 100px;
+}
+
+.price-rated {
+  padding-top: 10px;
+}
+
+.categories {
+  margin-top: 100px;
+}
+
+.text {
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.rate {
+  width: 120px;
+  margin-bottom: 50px;
+  margin-top: -5px;
+}
+
+.name,
+.price {
+  margin-top: 20px;
+}
+
+.ha-header {
+  background-image: url("../assets/Haier Freezer.jpg");
+  height: 190px;
+}
+
+.hi-header {
+  background-image: url("../assets/Hisense Freezer.jpg");
+  height: 190px;
+}
+
+.ho-header {
+  background-image: url("../assets/Hoover Freezer.jpg");
+  height: 190px;
+}
+
+.hot-header {
+  background-image: url("../assets/Hotpoint Freezer.jpg");
+  height: 190px;
+}
+
+.sa-header {
+  background-image: url("../assets/Samsung Freezer.jpg");
+  height: 190px;
+}
+
+.bo-header {
+  background-image: url("../assets/Bosch Freezer.jpg");
+  height: 190px;
+}
+
+.lg-header {
+  background-image: url("../assets/LG Freezer.jpg");
+  height: 190px;
+}
+
+.be-header {
+  background-image: url("../assets/Beko Freezer.jpg");
+  height: 190px;
+  width: 170px;
+  margin-top: 5px;
+  margin-left: 35px;
+}

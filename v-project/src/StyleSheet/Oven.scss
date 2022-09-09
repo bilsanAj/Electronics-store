@@ -1,0 +1,66 @@
+.price-boxh {
+    height: 350px;
+    margin-bottom: 100px;
+  }
+  .price-rated {
+    padding-top: 10px;
+  }
+  .categories {
+    margin-top: 100px;
+  }
+  
+  .text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+  .rate {
+    width: 120px;
+    margin-bottom: 50px;
+    margin-top: -5px;
+  }
+  .name,
+  .price {
+    margin-top: 20px;
+  }
+  .bos-header {
+    background-image: url("../assets/Hotpoint Oven.jpg");
+    height: 190px;
+  }
+  .si-header {
+    background-image: url("../assets/Siemens Oven.jpg");
+    height: 190px;
+  }
+  .ae-header {
+    background-image: url("../assets/Aeg Oven.jpg");
+    height: 190px;
+  }
+  .sm-header {
+    background-image: url("../assets/Smeg Oven.jpg");
+    height: 190px;
+  }
+  .ne-header {
+    background-image: url("../assets/Neff Oven.jpg");
+    height: 190px;
+  }
+  .za-header {
+    background-image: url("../assets/Zanussi Oven.jpg");
+    height: 190px;
+  }
+  .wh-header {
+    background-image: url("../assets/Whirlpool Oven.jpg");
+    height: 190px;
+  }
+  .hoo-header {
+    background-image: url("../assets/Hotpoint Oven.jpg");
+    height: 190px;
+    width: 170px;
+    margin-top: 5px;
+    margin-left: 35px;
+  }

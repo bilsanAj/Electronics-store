@@ -1,0 +1,353 @@
+.background {
+  margin-top: 200px;
+  background-color: rgba(110, 13, 86, 0.6);
+}
+
+.container-login100-form-btn {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.login100-form-btn {
+  font-size: 25px;
+  font-style: initial;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  min-width: 160px;
+  width: 150px;
+  height: 50px;
+  background-color: rgba(110, 13, 86, 0.6);
+  border-radius: 25px;
+  font-family: Poppins-Regular;
+  color: #fff;
+  line-height: 1.2;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.login100-form-btn:hover {
+  background-color: #cf63a6;
+}
+
+.modal-header {
+  background-color: rgba(110, 13, 86, 0.6);
+}
+
+textarea {
+  height: 80px;
+}
+
+.input_std {
+  margin-bottom: 10px;
+  width: auto;
+  display: block;
+  border: none;
+  border-bottom: 1px solid #999;
+  padding: 6px 30px;
+  font-family: Poppins;
+  box-sizing: border-box;
+}
+
+input::-webkit-input-placeholder {
+  color: #999;
+}
+
+input::-moz-placeholder {
+  color: #999;
+}
+
+input:-ms-input-placeholder {
+  color: #999;
+}
+
+input:-moz-placeholder {
+  color: #999;
+}
+
+input:focus {
+  border-bottom: 1px solid #800852;
+}
+
+textarea:focus::-webkit-input-placeholder {
+  color: #800852;
+}
+
+input:focus::-webkit-input-placeholder {
+  color: #800852;
+}
+
+input:focus::-moz-placeholder {
+  color: #800852;
+}
+
+input:focus:-ms-input-placeholder {
+  color: #800852;
+}
+
+input:focus:-moz-placeholder {
+  color: #800852;
+}
+
+.price-rate h4 {
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+.cats .cat-but {
+  width: 100%;
+  height: 70px;
+  color: #743152;
+  border-color: #611861;
+  font-size: 40px;
+}
+
+.cat-link {
+  color: #743152;
+}
+
+.cat-link:hover {
+  color: white;
+  text-decoration-line: none;
+}
+
+.cats .cat-but:hover {
+  background-color: rgba(110, 13, 86, 0.6);
+}
+
+.carousel {
+  margin-top: 50px;
+  height: 10px;
+  width: 100%px;
+}
+
+.nav-items {
+  color: rgba(128, 0, 64, 0.7);
+  margin-left: 10px;
+}
+
+.site-title {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.site-title h1 {
+  color: #3e0558;
+  font-family: initial;
+  font-style: italic;
+  font-size: 60px;
+}
+
+.fa-size {
+  font-size: 30px;
+}
+
+.footer-copyright {
+  background-color: gray;
+}
+
+.site-title p {
+  margin-left: 2px;
+  color: rgba(87, 25, 116, 0.7);
+  font-size: 20px;
+}
+
+.new-add {
+  margin-top: 800px;
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.column1 {
+  float: left;
+  width: 50%;
+}
+
+.des {
+  margin-top: 200px;
+  margin-left: -50px;
+}
+
+.des1 {
+  margin-top: -90px;
+  margin-left: 100px;
+}
+
+.des1 p {
+  margin-top: 50px;
+}
+
+.column1 .br-img {
+  width: 550px;
+  margin-top: -100px;
+  margin-left: 60px;
+  margin-bottom: 200px;
+}
+
+.des h3 {
+  padding-top: 20px;
+}
+
+.des p {
+  margin-top: 50px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row1 {
+  margin-top: -300px;
+}
+
+.column1 .cof-img {
+  margin-top: 200px;
+  width: 50%;
+  margin-left: 50px;
+  width: 500px;
+  margin-bottom: 200px;
+}
+
+.page-footer {
+  background-color: #c2bebe;
+}
+
+.saving, .hp-cat-tiles-v2 .swiper-slide .sale {
+  position: absolute;
+  top: 420px;
+  background-color: #e40613;
+  color: white;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-style: italic;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+  text-align: center;
+  margin: 0;
+  z-index: 10;
+  left: 5%;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.off-div {
+  margin-left: 50px;
+}
+
+.offers {
+  margin-top: 150px;
+  width: 100%;
+  height: 400px;
+}
+
+.offers-card {
+  margin-top: 500px;
+  width: 200px;
+}
+
+.price-box-ma {
+  margin-top: 400px;
+}
+
+.price-box {
+  text-align: center;
+  width: 250px;
+  border-radius: 5px;
+  overflow: hidden;
+  text-align: center;
+  height: 250px;
+  background-color: white;
+  -webkit-box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.1);
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price-box:hover {
+  -webkit-box-shadow: 0 0 50px -15px #4d43c6;
+  box-shadow: 0 0 50px -15px #4d43c6;
+}
+
+.price-header {
+  background-image: url("../assets/Bosch Oven.jpg");
+  background-repeat: no-repeat;
+  z-index: 100;
+  background-size: 100% 100%;
+  margin-top: 5%;
+  height: 60%;
+}
+
+.f-header {
+  background-image: url("../assets/Samsung Freezer.jpg");
+}
+
+.fire-header {
+  background-image: url("../assets/Aeg Washer.jpg");
+  width: 80%;
+margin-left: 5%;
+}
+
+.d-header {
+  background-image: url("../assets/Dehumidifiers Conditioner.jpg");
+  margin-top: 2%;
+}
+
+.w-header {
+  background-image: url("../assets/Whirlpool Washer.jpg");
+  width: 80%;
+  margin-left: 5%;
+}
+
+.s-header {
+  background-image: url("../assets/Hoover Freezer.jpg");
+}
+
+.r-header {
+  background-image: url("../assets/Smeg Oven.jpg");
+}
+
+.k-header {
+  background-image: url("../assets/De longhi_pacan Conditioner.jpg");
+  margin-top: 1%;
+}
+
+.price-box:hover .price-header {
+  color: #ffffff;
+}
+
+.price-box:hover .price-header:before {
+  background-image: url("../assets/home2.jpg");
+  opacity: 0;
+}
+
+.price-box .price-header .price-icon {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
